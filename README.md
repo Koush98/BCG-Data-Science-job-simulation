@@ -119,3 +119,15 @@ This is interesting because you may decide to treat this column to reduce the sk
 To investigate outliers, we use a boxplot. From the boxplot we can see that with the column as it is there are definitely some outliers. Once again this is interesting because we may choose to remove some of these outliers later.
 
 
+What is feature engineering?
+Feature engineering refers to:
+
+Addition
+Deletion
+Combination
+Mutation
+of your data set to improve machine learning model training, leading to better performance and greater accuracy.
+
+In context of this task, feature engineering refers to the engineering of the price and client data to create new columns that will help us to predict churn more accurately.
+
+Effective feature engineering is based on sound knowledge of the business problem and the available data sources.
